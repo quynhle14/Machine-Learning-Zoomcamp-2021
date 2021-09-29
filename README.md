@@ -1,7 +1,7 @@
 # Machine-Learning-Zoomcamp-2021
 Machine Learning Zoomcamp (September - December 2021)
 
-I signed up for a 4-month bootcamp to learn about machine learning, Python programming, and work on projects. The course is taught by Alexey Grigorev, Principal Data Scientist at OLX Group and Founder of DataTalks.Club. 
+This repository contains my homework assignments and personal projects for a 4-month machine learning bootcamp. The program is taught by Alexey Grigorev, Principal Data Scientist at OLX Group and Founder of DataTalks.Club. 
 
 1. Introduction to Machine Learning
 2. Machine Learning for Regression
